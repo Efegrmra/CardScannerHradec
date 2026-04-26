@@ -1,0 +1,14 @@
+[2026-04-25 02:16:25] BAŞARILI GİRİŞ -> ID: 1001 | İsim: Efe Gurmarmara | Kart Tipi: StudentCard
+[2026-04-25 02:16:25] BAŞARILI GİRİŞ -> ID: 9001 | İsim: Ahmet Hoca | Kart Tipi: StaffCard
+[2026-04-25 02:21:24] BAŞARILI GİRİŞ -> ID: 1001 | İsim: Efe Gurmarmara | Kart Tipi: StudentCard
+[2026-04-25 02:21:24] BAŞARILI GİRİŞ -> ID: 9001 | İsim: Ahmet Hoca | Kart Tipi: StaffCard
+[2026-04-25 02:28:43] BAŞARILI GİRİŞ -> ID: 1001 | İsim: Efe Gurmarmara | Kart Tipi: StudentCard
+[2026-04-25 02:28:43] BAŞARILI GİRİŞ -> ID: 9001 | İsim: Ahmet Hoca | Kart Tipi: StaffCard
+[2026-04-25 02:57:53] BAŞARILI GİRİŞ -> ID: 1001 | İsim: Efe Gurmarmara | Kart Tipi: StudentCard
+[2026-04-25 02:57:53] BAŞARILI GİRİŞ -> ID: 9001 | İsim: Ahmet Hoca | Kart Tipi: StaffCard
+[2026-04-25 18:46:35] BAŞARILI GİRİŞ -> ID: 1001 | İsim: Efe Gurmarmara | Kart Tipi: StudentCard
+[2026-04-26 02:28:17] BAŞARILI GİRİŞ -> ID: 1001 | İsim: Efe Gurmarmara | Kart Tipi: StudentCard
+[2026-04-26 02:28:39] BAŞARILI GİRİŞ -> ID: 1001 | İsim: Efe Gurmarmara | Kart Tipi: StudentCard
+[2026-04-26 02:39:12] BAŞARILI GİRİŞ -> ID: 8001 | İsim: Jane Doe | Kart Tipi: StaffCard
+[2026-04-26 02:51:20] BAŞARILI GİRİŞ -> ID: 2026 | İsim: Efe Gurmarmara | Kart Tipi: ExchangeStudentCard
+[2026-04-26 02:54:55] SCAN ATTEMPT -> ID: 8001 | Name: Jane Doe | Card Type: StaffCard
